@@ -1,0 +1,17 @@
+#conteudo {
+    background-color: lightcoral;
+    height: 700px;  
+    width: 700px;            
+    padding: 5px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.times {
+    width: 150px; 
+    height: 150px;  
+    margin: 10px; 
+    color: #000; 
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;   
+}
