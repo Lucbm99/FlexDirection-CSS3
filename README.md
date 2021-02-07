@@ -1,3 +1,3 @@
 # FlexDirection-CSS3
-Exemplo do uso de Flex direction no CSS3.
+Example of using Flex direction with CSS3.
 
