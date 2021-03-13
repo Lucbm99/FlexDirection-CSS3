@@ -47,11 +47,11 @@ Os arquivos estarão na pasta recém criada:
 
 ![image](https://user-images.githubusercontent.com/45500959/111052835-6d816480-843d-11eb-8761-81516c70210b.png)
 
-E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o site do exemplo utilizado. 
+E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o exercício construído. 
 ![image](https://user-images.githubusercontent.com/45500959/111052839-77a36300-843d-11eb-9df3-fcbaad9cc9aa.png)
 
 
-## 📦 Status do Site
+## 📦 Status
 🚧  Finalizado 🚧
 
 ## 🛠️ Feito com
